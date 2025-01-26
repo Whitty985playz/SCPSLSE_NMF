@@ -82,3 +82,15 @@ EFFECT ADD {TUTORIAL} Invigorated 1 0
 WAIT MIL 1
 EFFECT ADD {TUTORIAL} MovementBoost 255 0
 ```
+## Lighting Effects
+Lighting Switch 1:
+[PLACE HOLDER]
+
+Lighting Idle Main:
+[PLACE HOLDER]
+
+Lighting Switch 2:
+[PLACE HOLDER]
+
+Warhead Lighting:
+[PLACE HOLDER]
