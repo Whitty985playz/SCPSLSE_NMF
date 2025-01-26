@@ -19,4 +19,4 @@ This was created as a way for Server Administrators to end a round if it has gon
   - This can be found in **/.config/EXILED/plugins/audio**
 - Restart your server and test using "run NMF"
 
-To find out more(e.g. Configs and Lighting) Look at the [Wiki]()
+To find out more(e.g. Configs and Lighting) Look at the [Wiki](https://github.com/Whitty985playz/SCPSLSE_NMF/blob/main/Wiki.md)
